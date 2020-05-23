@@ -1,0 +1,21 @@
+{
+    "name": "netbeans-inspiration",
+    "displayName": "netbeans inspiration",
+    "description": "Netbeans colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Netbeans color inspiration",
+                "uiTheme": "vs",
+                "path": "./themes/Netbeans color inspiration-color-theme.json"
+            }
+        ]
+    }
+}
