@@ -1,2 +1,2 @@
-# netbeans_inpiration_vscode-theme
+# netbeans_inspiration_vscode-theme
 VSCode Theme
