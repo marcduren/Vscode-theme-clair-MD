@@ -78,10 +78,7 @@
     },
     {
       "name": "Function",
-      "scope": [
-        "entity.name.function",
-        "meta.definition.method.ts entity.name.function.ts"
-      ],
+      "scope": ["entity.name.function", "meta.definition.method.ts entity.name.function.ts"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#000"
@@ -96,6 +93,13 @@
       ],
       "settings": {
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "support.function",
+      "scope": ["support.function"],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
@@ -176,6 +180,7 @@
       }
     },
     {
+      "name": "css include",
       "scope": [
         "entity.other.attribute-name.class.css",
         "entity.other.attribute-name.class.mixin.css",
@@ -185,7 +190,8 @@
         "entity.other.attribute-name.pseudo-element.css",
         "source.css.less entity.other.attribute-name.id",
         "entity.other.attribute-name.attribute.scss",
-        "entity.other.attribute-name.scss"
+        "entity.other.attribute-name.scss",
+        "meta.property-value.css support.constant"
       ],
       "settings": {
         "foreground": "#000"
@@ -193,7 +199,7 @@
     },
     {
       "name": "Markup: Changed",
-      "scope": "markup.changed",
+      "scope": ["markup.changed"],
       "settings": {
         "foreground": "#000000"
       }
