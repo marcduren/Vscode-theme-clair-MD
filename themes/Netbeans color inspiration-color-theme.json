@@ -89,6 +89,7 @@
       "scope": [
         "meta.function-call.ts entity.name.function.ts",
         "meta.function-call.js entity.name.function.js",
+        "entity.name.function.call.cpp",
         "entity.name.function.php"
       ],
       "settings": {
