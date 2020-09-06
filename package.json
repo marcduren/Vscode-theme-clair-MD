@@ -3,6 +3,7 @@
     "displayName": "Theme Clair",
     "description": "Fonction en gras,commentaires en italique",
     "version": "0.0.1",
+    "publisher": "Marc",
     "engines": {
         "vscode": "^1.45.0"
     },
