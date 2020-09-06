@@ -1,7 +1,7 @@
 {
-    "name": "netbeans-inspiration",
-    "displayName": "netbeans inspiration",
-    "description": "Netbeans colors",
+    "name": "theme-clair-md",
+    "displayName": "Theme Clair",
+    "description": "Fonction en gras,commentaires en italique",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Netbeans color inspiration",
+                "label": "Theme Clair MD",
                 "uiTheme": "vs",
-                "path": "./themes/Netbeans color inspiration-color-theme.json"
+                "path": "./themes/Theme Clair MD.json"
             }
         ]
     }
