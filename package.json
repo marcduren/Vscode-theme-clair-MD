@@ -1,9 +1,9 @@
 {
     "name": "theme-clair-md",
     "displayName": "Theme Clair",
-    "description": "Fonction en gras,commentaires en italique",
+    "description": "Functions in bold and some entities in italics",
     "version": "0.0.1",
-    "publisher": "Marc",
+    "publisher": "marc-duren",
     "engines": {
         "vscode": "^1.45.0"
     },
