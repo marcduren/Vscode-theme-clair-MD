@@ -2,7 +2,7 @@
     "name": "theme-clair-md",
     "displayName": "Theme Clair",
     "description": "Functions in bold and some entities in italics",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "marc-duren",
     "engines": {
         "vscode": "^1.45.0"
@@ -11,9 +11,9 @@
         "Themes"
     ],
     "repository": {
-		"type": "git",
-		"url": "https://github.com/marcduren/Vscode-theme-clair-MD"
-	},
+        "type": "git",
+        "url": "https://github.com/marcduren/Vscode-theme-clair-MD"
+    },
     "contributes": {
         "themes": [
             {
@@ -22,5 +22,6 @@
                 "path": "./themes/Theme Clair MD.json"
             }
         ]
-    }
+    },
+    "icon": "images/logo-128.png"
 }
